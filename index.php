@@ -12,6 +12,7 @@
 	}
 
 	?>
+
 	<form method="POST">
 		<input type="text" name="nome" />
 		<input type="submit" name="Enviar" />
